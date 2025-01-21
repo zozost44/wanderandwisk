@@ -1,0 +1,8 @@
+publishDir = "docs"
+
+baseURL = 'https://github.com/zozost44/wanderandwisk.git'
+languageCode = 'en-us'
+title = 'Wander and Whisk'
+theme = 'terminal' 
+ 
+ 
