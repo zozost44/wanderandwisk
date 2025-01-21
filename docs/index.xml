@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wander and Whisk</title>
-    <link>https://github.com/zozost44/wanderandwisk.git/</link>
+    <link>http://localhost:1313/zozost44/wanderandwisk.git/</link>
     <description>Recent content on Wander and Whisk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/zozost44/wanderandwisk.git/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/zozost44/wanderandwisk.git/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
