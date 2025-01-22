@@ -1,6 +1,6 @@
 publishDir = "docs"
 
-baseURL = "https://github.com/zozost44/wanderandwisk.git"
+baseURL = "https://zozost44.github.io/wanderandwisk/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
