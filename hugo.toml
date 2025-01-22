@@ -12,7 +12,11 @@ relativeURLs = false
 canonifyURLs = true
 
 [params]
-  # dir name of your main content (default is `content/posts`).
+ title = "Wander & Whisk"
+ logo = ""
+ disableTitleButton = false 
+
+ # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
