@@ -11,16 +11,7 @@ sectionPagesMenu = "main"
 relativeURLs = false
 canonifyURLs = true
 
-[menu]
-  [[menu.main]]
-  name = "Main"
-  url = "/"
-  weight = 1
-  
-  [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 2
+
 
 [params]
  title = "Wander & Whisk"
@@ -79,6 +70,17 @@ canonifyURLs = true
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
+
+[menu]
+  [[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 1
+  
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
 
 [markup.goldmark.renderer]
 unsafe= true
