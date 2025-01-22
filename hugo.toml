@@ -11,6 +11,17 @@ sectionPagesMenu = "main"
 relativeURLs = false
 canonifyURLs = true
 
+[menu]
+  [[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 1
+  
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
 [params]
  title = "Wander & Whisk"
 
