@@ -17,13 +17,22 @@
 &lt;blockquote&gt;
 &lt;p&gt;Each year my family spends Thanksgiving on the beach in the Outer Banks, NC.  This year we stayed in Duck, which is the 2nd most north town along the coast.  Here are a few pics from it.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
+&lt;div class=&#34;gallery&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image1.jpg&#34; alt=&#34;Description of Image 1&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image2.jpg&#34; alt=&#34;Description of Image 2&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image3.jpg&#34; alt=&#34;Description of Image 3&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+&lt;/div&gt;</description>
       <content>&lt;h1 id=&#34;obx-trip-2024&#34;&gt;OBX Trip 2024&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Each year my family spends Thanksgiving on the beach in the Outer Banks, NC.  This year we stayed in Duck, which is the 2nd most north town along the coast.  Here are a few pics from it.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-</content>
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
+&lt;div class=&#34;gallery&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image1.jpg&#34; alt=&#34;Description of Image 1&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image2.jpg&#34; alt=&#34;Description of Image 2&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+  &lt;img src=&#34;https://zozost44.github.io/wanderandwisk/images/gallery0001/image3.jpg&#34; alt=&#34;Description of Image 3&#34; style=&#34;width:30%; margin:5px;&#34;&gt;
+&lt;/div&gt;</content>
     </item>
     
     <item>

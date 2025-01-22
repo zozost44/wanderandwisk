@@ -67,6 +67,8 @@ canonifyURLs = true
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [params.twitter]
   # set Twitter handles for Twitter cards
