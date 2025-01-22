@@ -7,6 +7,8 @@ languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
 
+relativeURLs = true
+canonifyURLs = false
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
