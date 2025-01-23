@@ -12,9 +12,14 @@ relativeURLs = false
 canonifyURLs = true
 
 
-
 [params]
- title = "Wander & Whisk"
+ title = "Wander & Wisk"
+ disableTitleButton = false
+ titleButton = {
+   text = "Home",
+   url = "/",
+   icon = "fas fa-home"
+ }
 
  customJS = ["js/custom.js"]
  disableJS = false
