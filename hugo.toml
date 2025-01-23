@@ -72,8 +72,9 @@ canonifyURLs = true
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
 [menu]
+
   [[menu.main]]
-  name = "Main"
+  name = "Home"
   url = "/"
   weight = 1
   
