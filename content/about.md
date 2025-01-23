@@ -3,7 +3,6 @@ menu = "main"
 title = "About"
 date = "2025-01-19"
 author = "Tyler Zozos"
-weight = 2
 +++
 
 # Hi Friends
