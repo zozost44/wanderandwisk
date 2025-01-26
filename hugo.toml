@@ -1,6 +1,8 @@
 
 
 baseURL = "https://zozost44.github.io/wanderandwisk/"
+publishDir = "docs"
+staticDir = "static"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -8,8 +10,7 @@ theme = "terminal"
 pagination.pagerSize = 5
 sectionPagesMenu = "main"
 
-publishDir = "docs"
-staticDir = "static"
+
 relativeURLs = false
 canonifyURLs = true
 
