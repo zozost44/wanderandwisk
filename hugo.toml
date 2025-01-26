@@ -1,4 +1,4 @@
-publishDir = "docs"
+
 
 baseURL = "https://zozost44.github.io/wanderandwisk/"
 languageCode = "en-us"
@@ -8,6 +8,8 @@ theme = "terminal"
 pagination.pagerSize = 5
 sectionPagesMenu = "main"
 
+publishDir = "docs"
+staticDir = "static"
 relativeURLs = false
 canonifyURLs = true
 
