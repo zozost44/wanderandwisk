@@ -1,5 +1,4 @@
 publishDir = "docs"
-staticDir = "static"
 
 baseURL = "https://zozost44.github.io/wanderandwisk/"
 languageCode = "en-us"
